@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=⚡+Spark+Xmd+under+development+⚡;✨+Stay+tuned+for+updates+✨;🚀+Launching+soon...+🚀)](https://git.io/typing-svg)
 <div align="center">
 
   <p align="center"> 🇵 🇪 🇦 🇰 🇾 -🇧 🇱 🇮 🇳 🇩 🇪 🇷 -🇲 🇩  </p>
