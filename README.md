@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Get Your Session ID](https://img.shields.io/badge/Get_Your_Session_ID-FF6B00?style=for-the-badge&logo=vercel&logoColor=black)](https://session-flax.vercel.app/)
+[![Get Your Session ID](https://img.shields.io/badge/Get_Your_Session_ID-FF6B00?style=for-the-badge&logo=vercel&logoColor=black)](https://sesssion.onrender.com/)
 
 
 ---
