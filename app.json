@@ -14,7 +14,7 @@
     "BOT_NAME": {
       "description": "write here your bot name.",
       "required": false,
-      "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V1』✦"
+      "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V2』✦"
     },
     "MODE": {
       "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
