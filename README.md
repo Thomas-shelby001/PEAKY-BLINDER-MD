@@ -5,7 +5,7 @@
 
 # 🔥 PEAKY-BLINDER-MD 🔥
 
-<a><img src='https://files.catbox.moe/dat1by.jpg'/></a>
+<a><img src='https://i.imgur.com/GqBRHZ4.jpeg'/></a>
 
 ## ⚡ A Powerful Multi-Device WhatsApp Bot Made in Kenya 🇰🇪 ⚡
 
@@ -93,7 +93,7 @@
 
 ### **Basic Configuration**
 
-Edit `settingss.js` with your settings:
+Edit `settings.js` with your settings:
 
 
 ## 🎯 **Complete Command List**
