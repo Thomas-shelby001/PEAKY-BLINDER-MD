@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thomas-shelby001&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=dark)
 
 </div>
 
