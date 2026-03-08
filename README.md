@@ -153,7 +153,7 @@ Edit `settings.js` with your settings:
 
 > **PEAKY-BLINDER-MD Owner**
 - [Sang Lee](https://github.com/Thomas-shelby001) 
-  <a><img src='https://i.imgur.com/GqBRHZ4.jpeg'/></a>
+  <a><img src='https://i.ibb.co/Z1J58tcv/11c6ccf4d8fb.jpg'/></a>
 ---
 
 ### 🔥 Stay Connected
