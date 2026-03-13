@@ -27,7 +27,7 @@
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys":"npm:gifted-baileys@2.5.8",
+    "@whiskeysockets/baileys":"npm:gifted-baileys@2.0.0",
     "awesome-phonenumber": "^5.9.0",
     "adm-zip": "^0.5.16",
     "axios": "^1.8.4",
