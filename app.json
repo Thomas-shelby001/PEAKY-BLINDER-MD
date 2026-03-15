@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID here. Make sure it starts with PEAKY-BLINDER~",
       "value": "",
-      "required": false
+      "required": true
     },
     "BOT_NAME": {
       "description": "write here your bot name.",
