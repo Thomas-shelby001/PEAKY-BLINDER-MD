@@ -1,32 +1,17 @@
+FROM node:18-bullseye
 
-FROM node:lts-bullseye
-
-USER root
-
-RUN apt-get update && \
-    apt-get install -y ffmpeg webp git && \
-    apt-get upgrade -y && \
-    rm -rf /var/lib/apt/lists/*
+# System deps
+RUN apt-get update && apt-get install -y ffmpeg webp git imagemagick && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
+COPY package*.json ./
+RUN npm install
+
 COPY . .
 
-RUN npm install --legacy-peer-deps
+# Expose port for health check
+EXPOSE 3000
 
-
-EXPOSE 7860
-
-ENV NODE_ENV=production
-
-CMD ["npm", "start"]
-
-
-
-
-
-
-
-
-
-
+# Start bot + server
+CMD ["node", "index.js"]
