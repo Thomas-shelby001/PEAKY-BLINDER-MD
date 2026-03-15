@@ -4,7 +4,7 @@ FROM node:lts
 RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg imagemagick webp && apt-get clean
 
 # Set working directory
-WORKDIR /start
+WORKDIR /app
 
 # Copy package files
 COPY package*.json ./
