@@ -1,17 +1,16 @@
-FROM node:18-bullseye
+FROM node:lts-buster
 
-# System deps
-RUN apt-get update && apt-get install -y ffmpeg webp git imagemagick && rm -rf /var/lib/apt/lists/*
+# Clone bot from GitHub
+RUN git clone https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD.git /root/PEAKY-MD-bot
 
-WORKDIR /app
+# Set working directory
+WORKDIR /root/popkid-md-bot
 
-COPY package*.json ./
-RUN npm install
+# Install dependencies
+RUN npm install && npm install -g pm2
 
-COPY . .
+# Expose port
+EXPOSE 9090
 
-# Expose port for health check
-EXPOSE 3000
-
-# Start bot + server
-CMD ["node", "index.js"]
+# Start the bot
+CMD ["npm", "start"]
