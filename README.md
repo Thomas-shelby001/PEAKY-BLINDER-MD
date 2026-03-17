@@ -36,10 +36,9 @@
 
 <div align="center">
 
-[![Get Session - Server 1](https://img.shields.io/badge/GET_SESSION_SERVER_1-0B3D2E?style=for-the-badge&logo=cloudflare&logoColor=gold)](https://sesssion.onrender.com/)
+[![Server 1](https://img.shields.io/badge/SERVER_1-0B3D2E?style=for-the-badge&logo=server&logoColor=gold)](https://sesssion.onrender.com/)
 
-[![Get Session - Server 2](https://img.shields.io/badge/GET_SESSION_SERVER_2-1A1A1A?style=for-the-badge&logo=heroku&logoColor=purple)](https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/)
-
+[![Server 2](https://img.shields.io/badge/SERVER_2-8B0000?style=for-the-badge&logo=heroku&logoColor=white)](https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/)
 ---
 
 ### 🚀 Deploy PEAKY-BLINDER-MD 
