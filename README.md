@@ -39,7 +39,7 @@
 [![Get Your Session ID](https://img.shields.io/badge/Get_Your_Session_ID-FF6B00?style=for-the-badge&logo=vercel&logoColor=black)](https://sesssion.onrender.com/)
 
 
-[![Get Your Session ID Server 2](https://img.shields.io/badge/Get_Your_Session_ID-FF6B00?style=for-the-badge&logo=vercel&logoColor=black)](https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/)
+[![Get Your Session ID Server 2](https://img.shields.io/badge/Get_Your_Session_ID Server 2-FF6B00?style=for-the-badge&logo=vercel&logoColor=black)](https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/)
 
 
 ---
