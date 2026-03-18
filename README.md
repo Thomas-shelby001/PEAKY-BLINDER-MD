@@ -11,13 +11,6 @@
 
 ### *By Order of the Peaky Blinders* 🎩
 
-
-
-
-
-## 📦 Latest Release
-Check here 👉 https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/releases
-
 [![GitHub stars](https://img.shields.io/github/stars/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=gold)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=blue)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/network)
 [![GitHub issues](https://img.shields.io/github/issues/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=red)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/issues)
