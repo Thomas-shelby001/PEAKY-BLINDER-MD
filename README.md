@@ -32,7 +32,7 @@
 ---
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![HOW TO DEPLOY](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/CN63hwHqaN0?si=HfH-omG9U0RYRi9u)
 
 ---
 ### 🌚 SESSION ID 👇👇
