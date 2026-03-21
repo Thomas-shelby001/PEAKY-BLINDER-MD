@@ -30,7 +30,7 @@
 <a href="https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/fork"><img src="https://img.shields.io/github/forks/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20PEAKY-BLINDER-MD" alt="Fork PEAKY-BLINDER-MD" /></a>
 
 ---
-
+<p align='center>
 
 [![HOW TO DEPLOY](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/CN63hwHqaN0?si=HfH-omG9U0RYRi9u)
 
