@@ -3,63 +3,61 @@
   "description": "Javascript WhatsApp bot made by ✦ Sang Lee ✦",
   "logo": "https://files.catbox.moe/7drn23.jpg",
   "keywords": ["PEAKY-BLINDER-MD"],
+  "repository": "https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD",
   "success_url": "/",
   "stack": "heroku-24",
+
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here. Make sure it starts with PEAKY-BLINDER~",
-      "value": "",
       "required": true
     },
     "BOT_NAME": {
       "description": "write here your bot name.",
-      "required": false,
       "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V2』✦"
     },
     "MODE": {
-      "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+      "description": "Bot mode can be public, private, inbox or groups",
       "value": "private",
       "required": true
     },
     "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙿𝙴𝙰𝙺𝚈-𝙱𝙻𝙸𝙽𝙳𝙴𝚁-𝙼𝙳 ❄️*",
-      "required": false
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙿𝙴𝙰𝙺𝚈-𝙱𝙻𝙸𝙽𝙳𝙴𝚁-𝙼𝙳 ❄️*"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "value": "254116266407",
       "required": true
     },
-    
-    "CUSTOM_REACT_EMOJIS": {
-      "description": "put here custom react react emojis.",
-      "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
-    },
-    
-    "AUTO_RECORDING": {
-      "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
-    },
-
-    "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
-    },
-
-    
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "Sang Lee",
-      "required": false
+      "value": "Sang Lee"
+    },
+    "CUSTOM_REACT_EMOJIS": {
+      "description": "custom react emojis",
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+    },
+    "AUTO_RECORDING": {
+      "description": "auto recording",
+      "value": "false"
+    },
+    "AUTO_TYPING": {
+      "description": "auto typing",
+      "value": "false"
     }
   },
+
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      "url": "heroku/nodejs"
     }
   ]
 }
